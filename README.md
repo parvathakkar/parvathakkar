@@ -22,6 +22,7 @@ I love working with machine learning, computer vision and full stack application
 
 ### Certifications
 * IBM -> Artificial Intelligence Fundamentals -> [Credential](https://www.credly.com/badges/6f12c04d-e0aa-4d06-b0be-980ac38d73af)
+* Google -> Introduction to Generative AI -> [Credential](https://simpli-web.app.link/e/bAPZAnyteWb)
 
 ### Socials
 
